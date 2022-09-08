@@ -1,5 +1,5 @@
 ### Olá, tudo bem? Sou o Flávio Sabino !
-- 🌱 Atualmente estudo Python, JavaScript and Java.
+- 🌱 Atualmente estudo Python and JavaScript.
 ##
 
 <div align="center">
